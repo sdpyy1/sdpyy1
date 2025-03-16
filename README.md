@@ -3,6 +3,7 @@
 
 ![sdpyy1](https://img.shields.io/badge/Hello-Sweat%20World-orange)
 ![sdpyy1](https://komarev.com/ghpvc/?username=sdpyy1)
+[![wakatime](https://wakatime.com/badge/user/9e88d62c-abf8-4937-83bc-d29eda821d44.svg)](https://wakatime.com/@9e88d62c-abf8-4937-83bc-d29eda821d44)
 
 Welcome to my github! I'm lbw 😎, a PhD student in Computer Science and Technology at Harbin Institute of Technology Shenzhen.
 
