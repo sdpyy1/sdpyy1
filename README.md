@@ -1,5 +1,5 @@
 # 见字如面
-[![MasterHead](https://github.com/sdpyy1/Home-of-pictures/blob/master/banner.png?raw=true)](https://github.com/sdpyy1/github-readme-stats)
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);WelCome!&center=true&size=27"> </a> </h1>
 
 ![sdpyy1](https://img.shields.io/badge/Hello-Sweat%20World-orange)
 ![sdpyy1](https://komarev.com/ghpvc/?username=sdpyy1)
@@ -7,26 +7,12 @@
 Welcome to my GitHub! I'm sdpyy1 😎, a &zwnj;**Graduate student**&zwnj; in Computer Science and Technology at [Shanghai University of Electric Power](https://www.shiep.edu.cn/).
 
 ### TAGS
-* 🎮 Likes to play video games, favorite games are ***The Legend of Zelda Breath of the Wild*** and ***Red Dead Redemption*** 
-* 🏄 Want to become a ***game developer*** and keep working hard
-* 🎓 Interested in ***computer graphics***
-* 🚬 Good foundation in ***C++/C#*** (maybe)
-* 🙈 A bit of accumulation of ***network security*** knowledge
-<!--
-**sdpyy1/sdpyy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### 💾 Open source work stats &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  🔞 Technology stack
+* 🌱 I’m currently learning games101 
+* 🏄 Want to become a ***Graphics Rendering Engineer*** and keep working hard
+* 🎓 Interested in ***computer graphics*** and ***‌Game Server Development‌***
+* 🚬 Good foundation in ***C++/Java/Python(maybe)***
+* 🙈 A bit of accumulation of ***Adversarial Machine Learning*** knowledge
+* 🎮 Likes to play video games, favorite games are ***Wuthering Waves*** and ***League of Legends*** 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdpyy1&show_icons=true&theme=tokyonight)](https://github.com/sdpyy1/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdpyy1&theme=tokyonight&layout=compact)](https://github.com/sdpyy1/github-readme-stats)
 
