@@ -13,7 +13,11 @@ Welcome to my GitHub! I'm sdpyy1 😎, a &zwnj;**Graduate student**&zwnj; in Com
 * 🎓 Interested in ***computer graphics*** and ***‌Game Server Development‌***
 * 🚬 Good foundation in ***C++/Java/Python(maybe)***
 * 🙈 A bit of accumulation of ***Adversarial Machine Learning*** knowledge
-* 🎮 Likes to play video games, favorite games are ***Wuthering Waves*** and ***League of Legends*** 
+* 🎮 Likes to play video games, favorite games are ***Wuthering Waves*** and ***League of Legends***
+* 💬 Ask me about everything~
+* 📫 How to reach me: lzh804121985@126.com  or 804121985@qq.com
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdpyy1&show_icons=true&theme=tokyonight)](https://github.com/sdpyy1/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdpyy1&theme=tokyonight&layout=compact)](https://github.com/sdpyy1/github-readme-stats)
 
@@ -25,10 +29,9 @@ Welcome to my GitHub! I'm sdpyy1 😎, a &zwnj;**Graduate student**&zwnj; in Com
 
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+
+
+
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
