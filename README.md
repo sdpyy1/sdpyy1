@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 
+![Metrics](https://metrics.lecoq.io/sdpyy1?template=classic&calendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&calendar=false&calendar.limit=1&config.timezone=Etc%2FGMT-8)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
