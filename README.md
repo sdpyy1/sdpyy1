@@ -1,5 +1,6 @@
 # 见字如面
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=std::cout%22<<%22Hello%2C%20World!%22<< %22std::endl;;WelCome!&center=true&size=27"> </a> </h1>
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小孙同学祝您今天愉快!&center=true&size=27"> </a> </h1>
+
 
 ![sdpyy1](https://img.shields.io/badge/Hello-Sweat%20World-orange)
 ![sdpyy1](https://komarev.com/ghpvc/?username=sdpyy1)
