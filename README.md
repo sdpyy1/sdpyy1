@@ -18,17 +18,9 @@ Welcome to my GitHub! I'm sdpyy1 😎, a &zwnj;**Graduate student**&zwnj; in Com
 * 📫 How to reach me: lzh804121985@126.com  or 804121985@qq.com
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdpyy1&show_icons=true&theme=tokyonight)](https://github.com/sdpyy1/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdpyy1&theme=tokyonight&layout=compact)](https://github.com/sdpyy1/github-readme-stats)
-
 ### ❤️ Favorite piece     
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sdpyy1&repo=CppLearn&show_icons=true&theme=tokyonight)](https://github.com/sdpyy1/github-readme-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdpyy1&show_icons=true&theme=tokyonight)](https://github.com/sdpyy1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdpyy1&theme=tokyonight&layout=compact)](https://github.com/sdpyy1/github-readme-stats)
 
-![Metrics](https://metrics.lecoq.io/sdpyy1?template=classic&habits=1&discussions=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&discussions=false&discussions.categories=true&discussions.categories.limit=0&config.timezone=Etc%2FGMT-8)
-
-
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
