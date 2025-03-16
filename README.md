@@ -3,7 +3,6 @@
 
 ![sdpyy1](https://img.shields.io/badge/Hello-Sweat%20World-orange)
 ![sdpyy1](https://komarev.com/ghpvc/?username=sdpyy1)
-[![wakatime](https://wakatime.com/badge/user/4dde1580-2387-442c-9055-983531d6bb93.svg)](https://wakatime.com/@4dde1580-2387-442c-9055-983531d6bb93)
 
 Welcome to my github! I'm lbw 😎, a PhD student in Computer Science and Technology at Harbin Institute of Technology Shenzhen.
 
@@ -32,7 +31,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdpyy1&theme=tokyonight&layout=compact)](https://github.com/sdpyy1/github-readme-stats)
 
 ### ❤️ Favorite piece     
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sdpyy1&repo=JJJJinx&show_icons=true&theme=tokyonight)](https://github.com/sdpyy1/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sdpyy1&repo=CppLearn&show_icons=true&theme=tokyonight)](https://github.com/sdpyy1/github-readme-stats)
 
 ### 🐠 Mess around
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sdpyy1&theme=tokyonight&v=2)](https://github.com/sdpyy1/github-readme-stats)
