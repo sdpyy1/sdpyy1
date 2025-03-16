@@ -4,7 +4,7 @@
 ![sdpyy1](https://img.shields.io/badge/Hello-Sweat%20World-orange)
 ![sdpyy1](https://komarev.com/ghpvc/?username=sdpyy1)
 
-Welcome to my GitHub! I'm sdpyy1 😎, a &zwnj;**Master's student**&zwnj; in Computer Science and Technology at [Shanghai University of Electric Power](https://www.shiep.edu.cn/).
+Welcome to my GitHub! I'm sdpyy1 😎, a &zwnj;**Graduate student**&zwnj; in Computer Science and Technology at [Shanghai University of Electric Power](https://www.shiep.edu.cn/).
 
 ### TAGS
 * 🎮 Likes to play video games, favorite games are ***The Legend of Zelda Breath of the Wild*** and ***Red Dead Redemption*** 
