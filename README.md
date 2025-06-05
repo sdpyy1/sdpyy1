@@ -8,7 +8,7 @@
 Welcome to my GitHub! I'm sdpyy1 😎, a &zwnj;**Graduate student**&zwnj; in Computer Science and Technology at [Shanghai University of Electric Power](https://www.shiep.edu.cn/).
 
 ### TAGS
-* 🌱 I’m currently learning **games101** 
+* 🌱 I’m currently learning **games202** 
 * 🏄 Want to become a ***Graphics Rendering Engineer*** and keep working hard
 * 👏 Undergraduate: **Pharmaceutical Preparations** and Graduate: **Computer Science and Technology** :shipit:
 * 🎓 Interested in ***computer graphics*** and ***‌Game Server Development‌***
