@@ -19,9 +19,3 @@ Welcome to my GitHub! I'm sdpyy1 😎, a &zwnj;**Graduate student**&zwnj; in Com
 * 📫 How to reach me: lzh804121985@126.com  or 804121985@qq.com
 
 
-### ❤️ Favorite piece     
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sdpyy1&repo=OpenGL-Render&show_icons=true&theme=tokyonight)](https://github.com/sdpyy1/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdpyy1&show_icons=true&theme=tokyonight)](https://github.com/sdpyy1/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdpyy1&theme=tokyonight&layout=compact)](https://github.com/sdpyy1/github-readme-stats)
-
