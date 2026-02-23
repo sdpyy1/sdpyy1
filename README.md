@@ -18,4 +18,5 @@ Welcome to my GitHub! I'm sdpyy1 😎, a &zwnj;**Graduate student**&zwnj; in Com
 * 💬 Ask me about everything~
 * 📫 How to reach me: lzh804121985@126.com  or 804121985@qq.com
 
+<img width="1950" height="1260" alt="大气渲染" src="https://github.com/user-attachments/assets/820ca02c-6543-461f-a79c-bf27bb9ac46f" />
 
